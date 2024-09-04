@@ -18,6 +18,7 @@ fn main() -> i32 {
     // is the same as every other language
 
     Print(circle_area);
+    Print("hi mom");
 
     return 0;
 }
