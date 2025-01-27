@@ -39,7 +39,7 @@ fn Rectangle.Area() -> self {
 
 // Square (Note: Provides same functions as "Rectangle" class.)
 
-class Rectangle {
+class Square {
     var Width: f32 = 3;
     var Height: f32 = 1;
 
